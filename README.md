@@ -87,3 +87,14 @@ The module implements a robust security model:
 ## License
 
 AGPL-3.0-or-later
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [Sky SP-BEAM Module](https://www.chainsecurity.com/security-audit/sky-sp-beam-module/) | 2025-03-31 |
+| Cantina | [sp-beam](https://cantina.xyz/portfolio/590a7081-fd1e-40d5-8774-8ee7b07fbc5d) | 2025-03-21 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
